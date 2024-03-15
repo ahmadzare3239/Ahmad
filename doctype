@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
     <title>MetaMask</title>
         <link rel="stylesheet" type="text/css" href="./index.css">
-  </head>
+  </head>dfdfdfdf
   <body>
     <div id="app-content">
       <img class="loading-logo" src="./images/logo/metamask-fox.svg" alt="" loading="lazy" />
