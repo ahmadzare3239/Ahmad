@@ -5,17 +5,29 @@
 </html>
 <!doctypr" lang="en">
   <head>
-    <meta charset="utf-8">dfv
-    <title>New Tab</title>
-    <style>
-      body {doctype html>v
-    </style>dfvdfvdf
-  </head>v
+    <meta charset="utfmargin: 0;
+      }
+
+      #backgroundImage {
+        border: none;
+        height: 100%;
+        pointer-events: none;
+        position: fixed;
+        top: 0;
+        visibility: hidden;
+        width: 100%;
+      }
+
+      [show-background-image] #backgroundImage {
+        visibility: visible;
+      }
+    </style>
+  </head>
   <body>
-    <iframe id="backgroundImage" src=""></ifdfv
-    <script type="module" src="new_tab_page.jsdfv"></script>
-    <link rel="stylesheet" href="chrome:/fd
-    <meta charset="utf-8">
+    <iframe id="backgroundImage" src=""></iframe>
+    <ntp-app></ntp-app>
+    <script type="module" src="new_tab_page.js"></script>
+    <link rel="sty"utf-8">
     <title>New Tab</title>
     <style>vdfv
         margin: 0;fdv
