@@ -2,27 +2,26 @@
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe {
-        visibility: visible;
+        visibility: visible;hfghdg
     chrome-refresh-2023>>
-  <head>
-    <meta charset="utf-8">
+  <head>hf
+    <meta charset="utf-8">h
     <title>New Tab</title>
     <style>
       body {
-        background: #FFFFFF;
+        background: #FFFFFFfgfg
         margin: 0;
       }
 
-      #backgroundImage {
+      #backgroundImage {gfh
         border: none;
         height: 100%;
-        pointer-events: none;
+        pointer-events: none;fgh
         position: fixed;
-        top: 0;
+        top: 0;fghhg
         visibility: hidden;
-        width: 100%;
-      }
-
+        width: 100%;fg
+hfg
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
