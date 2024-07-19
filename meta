@@ -8,20 +8,19 @@
     <meta charset="utfmargin: 0;asdasdasd
       }
 
-
-      [show-background-image] #backgroundImage {
+hf
+      [show-background-image] #backgroundImage {hf
         visibility: visible;
-      }
-    </style>
+      }hf
+    </style>hf
   </head>
   <body>
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="sty"utf-8">
+    <iframe id="backgroundImage" src=""></iframe>hf
+    <ntp-app></ntp-app>hffh
+    <script type="module" src="new_tab_page.js"></script>hfh
     <title>New Tab</title>
     <style>vdfv
-        margin: 0;fdv
+        margin: 0;fdvhfhsd
       }
 
       #backgroundImage {
