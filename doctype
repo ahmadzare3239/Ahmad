@@ -8,15 +8,7 @@
     <meta charset="utf-8">h
     <title>New Tab</title>
     <style>
-      body {
-        background: #FFFFFFfgfg
-        margin: 0;
-      }
-
-      #backgroundImage {gfh
-        border: none;
-        height: 100%;
-        pointer-events: none;fgh
+      body {\
         position: fixed;
         top: 0;fghhg
         visibility: hidden;
