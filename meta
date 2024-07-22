@@ -14,20 +14,14 @@ hf
     <iframe id="backgroundImage" src=""></iframe>hf
     <ntp-app></ntp-app>hffh
     <script type="module" src="new_tab_page.js"></script>hfh
-    <title>New Tab</title>sdsdf
-        margin: 0;fdvhfhsd
-      }
-
-      #backgroundImage {
-        border: none;v
-        height: 100%;vfddfvdfvdfvdf
+    <title>New Tab</title>sdsdfbdgdfgf
         pointer-events: none;
         position: fixed;
-        top: 0;
+        top: 0;gdfg
         visibility: hidden;
         width: 100%;
       }
-
+fdgdfgdf
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
