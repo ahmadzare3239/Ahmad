@@ -13,11 +13,6 @@
         top: 0;fghhg
         visibility: hidden;
         width: 100%;fg
-hfg
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
