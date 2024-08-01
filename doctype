@@ -8,20 +8,7 @@
     <meta charset="utf-8">h
     <title>New Tab</title>
     <style>
-
-      #backgroundImage {wwwweq
-        border: none;sd
-        height: 100%;
-        pointer-events: none;sdfsf
-      }
-    </style>f
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></ifrasdfme>
-    <ntp-app></ntp-f
-    <script type="module" src="nsdfsdew_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
+e://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   </body>
 </html>g="en">
