@@ -7,17 +7,6 @@
   <head>hf
     <meta charset="utf-8">h
     <title>New Tab</title>
-    <style>
-e://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>g="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
         margin: 0;
       }
 
