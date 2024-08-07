@@ -4,9 +4,7 @@
     <iframe id="backgroundImage" src=""></iframe {
       #backgroundImage {
         border: none;
-        height: 100%;
-        pointer-events: none;
-        position: fixed;
+        height: 100%: nonejshsvsvsbbsition: fixed;
         top: 0;
         visibility: hidden;
         width: 100%;
