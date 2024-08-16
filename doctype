@@ -3,22 +3,6 @@
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/cd_vars.css">
-  </body>
-</html>
-
-<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
       #backgroundImage {
         border: none;
         height: 100%;
