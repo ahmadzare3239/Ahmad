@@ -4,12 +4,7 @@
     <iframe id="backgroundImage" src=""></i
         border: none;
         height: 100%; #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-</html>le>
-<!doctype html>
+        visibility: visib
 <html dir="ltr" lang="en">
   <head>
     <meta charset="utf-8">
