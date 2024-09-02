@@ -7,17 +7,7 @@
   </body>
 </html>
 gg
-<html dir="ltr" lang="en">
-  <head>g
-    <meta charset="utf-8">
-
-    <title>New Tab</title>
-    <style>ffgf
-
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;gfg
+<html dir="ltr" lang="en">s: none;gfg
         position: fixed;
         top: 0;g
         visibility: hidden;g
