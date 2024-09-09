@@ -1,18 +1,4 @@
 
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></i
-        border: none;
-        height: 100%; #backgroundImage {
-        visibility: visib
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
 
       #backgroundImage {
         border: none;
