@@ -1,12 +1,4 @@
-
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8
-        height: 100%;
-        pointer-events: none;
-  </body>
-        height: 100%;
-        pointer-events: none;
+s: none;
         position: fixed;
         top: 0;
         visibility: hidden;
