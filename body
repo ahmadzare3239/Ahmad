@@ -1,17 +1,4 @@
 
-        height: 100%;
-        pointer-events: none;
-"chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
-gg
-<html dir="ltr" lang="en">s: none;gfg
-        position: fixed;
-        top: 0;g
-        visibility: hidden;g
-        width: 100%;
       }
 
       [show-background-image] #backgroundImage {
