@@ -2,22 +2,6 @@
 <!doctype html>
 <html dir="ltr" lang="en">
       body {
-        background: #FFFFFF;aults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
-
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
       #backgroundImage {
         border: none;
         height: 100%;
