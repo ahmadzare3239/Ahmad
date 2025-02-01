@@ -1,19 +1,5 @@
 c=""></iframe>
     <meta charset="utf-8">ets=ui,chrome">#FFFFFF;
-<!doctype html>
-<html dir="ltr" lang="en"
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
